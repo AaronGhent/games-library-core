@@ -1,0 +1,23 @@
+{
+  "ids": {
+    "User": 1,
+    "AccessToken": 1,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "game": 5
+  },
+  "models": {
+    "User": {},
+    "AccessToken": {},
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "game": {
+      "1": "{\"title\":\"magic bean\",\"platform\":\"android\",\"description\":\"pick all the magic beans to win the game and clock the world\",\"id\":1}",
+      "2": "{\"title\":\"racing rabbits\",\"platform\":\"iphone\",\"description\":\"play as a rabbit in the great rabbit race\",\"id\":2}",
+      "3": "{\"title\":\"llama man\",\"platform\":\"android\",\"description\":\"play as a llama and try finish this wicked adventure game\",\"id\":3}",
+      "4": "{\"title\":\"whale derby\",\"platform\":\"iphone\",\"description\":\"welcome to the under sea derby championship, you will be pitted against the best whales out there can you win ?\",\"id\":4}"
+    }
+  }
+}
